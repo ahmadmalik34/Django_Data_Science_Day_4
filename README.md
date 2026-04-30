@@ -2,6 +2,10 @@
 
 This project is a simple blog application built with Django. It includes models for Posts and Categories, and views for displaying all posts and posts by category.
 
+## Technology Stack
+- Python
+- Django
+
 ## Features
 
 -   **Post Model**: Contains title, content, author, publication date, and a foreign key to the Category model.
@@ -20,7 +24,7 @@ This project is a simple blog application built with Django. It includes models 
     ```bash
     pip install -r requirements.txt
     ```
-    *(Assuming a requirements.txt file exists. If not, you will need to install Django)*
+    *(Create a requirements.txt file if one does not exist: `pip freeze > requirements.txt`)*
 4.  **Apply migrations:**
     ```bash
     python manage.py migrate
@@ -35,3 +39,7 @@ This project is a simple blog application built with Django. It includes models 
     ```
 7.  Open your browser and go to `http://127.0.0.1:8000/` to see the blog.
 8.  Access the admin panel at `http://127.0.0.1:8000/admin/` to create categories and posts.
+
+## Screenshots
+*(Add screenshots of your application here)*
+
