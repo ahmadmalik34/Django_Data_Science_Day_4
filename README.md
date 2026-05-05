@@ -16,7 +16,7 @@
 
 ## 🎯 Overview
 
-Add a powerful admin interface to manage blog posts + a public-facing blog that displays posts to visitors.
+Build a powerful admin interface to manage blog posts + a public-facing blog that displays posts to site visitors.
 
 **Django admin is genuinely one of the best features in any web framework.**
 
